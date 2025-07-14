@@ -2,7 +2,7 @@
 
 A full-stack chatbot application built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Google's Gemini AI API.
 
-![Chatbot Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Chatbot+Interface)
+![Landing Page]([https://i.ibb.co/mrxz9v4w/chatbot-landing-page.jpg])
 
 ## 🚀 Features
 
@@ -198,8 +198,9 @@ chatBot/
 If you encounter any issues or have questions, please:
 - Check the troubleshooting section above
 - Open an issue on GitHub
-- Contact \href{mailto:smayour82@gmail.com}{smayour82@gmail.com}
+- Contact [smayour82@gmail.com](mailto:smayour82@gmail.com)
 
 ---
 
 **Happy Chatting! 🤖💬**
+

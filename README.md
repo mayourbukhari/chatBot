@@ -171,9 +171,6 @@ chatBot/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Troubleshooting
 
@@ -201,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions, please:
 - Check the troubleshooting section above
 - Open an issue on GitHub
-- Contact the development team
+- Contact \href{mailto:smayour82@gmail.com}{smayour82@gmail.com}
 
 ---
 
